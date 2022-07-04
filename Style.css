@@ -1,0 +1,22 @@
+body{
+    background-color: navy;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#parafunc{
+    color:yellow;
+    font-size: 1em;
+}
+
+#parafunc2{
+    color:red;
+    font-style: italic;
+    text-decoration: line-through;
+}
+
+#countdownStatus{
+    color:green;
+    font-style: oblique;
+    font-size: 150%;
+}
